@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://browsablejog.github.io/sitemap/sitemap.txt
